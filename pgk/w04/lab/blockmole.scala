@@ -133,19 +133,31 @@ object Worm {
             } 
             else if (key == "a") {
                 if (x > 0) {
-                    BlockWindow.block((x, y), tail) 
+                    if ((x-1, y) == BlockWindow.candyPos) {
+                        score += 1
+                        BlockWindow.candy()
+                    }
+                    else BlockWindow.block((x, y), tail) 
                     x -= 1
                 }
             } 
             else if (key == "s") {
                 if (y < BlockWindow.wy -1) {
-                    BlockWindow.block((x, y), tail)
+                    if ((x, y+1) == BlockWindow.candyPos) {
+                        score += 1
+                        BlockWindow.candy()
+                    }
+                    else BlockWindow.block((x, y), tail)
                     y += 1
                 }
             } 
             else if (key == "d") {
                 if (x < BlockWindow.wx-1) {
-                    BlockWindow.block((x, y), tail)
+                    if ((x+1, y) == BlockWindow.candyPos) {
+                        score += 1
+                        BlockWindow.candy()
+                    }
+                    else BlockWindow.block((x, y), tail)
                     x += 1
                 }
             } 

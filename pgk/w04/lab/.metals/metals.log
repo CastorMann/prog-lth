@@ -931,3 +931,12 @@ WARNING: Unmatched cancel notification for request id 7001
 2020.09.24 17:04:07 INFO  time: compiled lab-test in 0.45s
 2020.09.24 17:04:09 INFO  skipping build import with status 'Installed'
 2020.09.24 17:04:33 INFO  skipping build import with status 'Installed'
+2020.09.24 17:23:15 INFO  skipping build import with status 'Installed'
+2020.09.24 17:23:15 INFO  compiling lab (1 scala source)
+2020.09.24 17:23:15 WARN  2 deprecations (since 2.13.0); re-run with -deprecation for details
+2020.09.24 17:23:16 INFO  compiling lab-test (1 scala source)
+2020.09.24 17:23:16 INFO  time: compiled lab in 1.02s
+2020.09.24 17:23:16 WARN  2 deprecations (since 2.13.0); re-run with -deprecation for details
+2020.09.24 17:23:16 INFO  time: compiled lab-test in 0.37s
+2020.09.24 17:23:52 INFO  skipping build import with status 'Installed'
+2020.09.24 17:26:27 INFO  skipping build import with status 'Installed'
