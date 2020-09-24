@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/target/scala-2.13/lab_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	blockmole[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/target/scala-2.13/classes/blockmole[0m
+[0m[[0m[0mdebug[0m] [0m[0m	blockmole/BlockWindow.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/target/scala-2.13/classes/blockmole/BlockWindow.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	blockmole/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/target/scala-2.13/classes/blockmole/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	blockmole/Mole.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/target/scala-2.13/classes/blockmole/Mole.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	blockmole/Color$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/target/scala-2.13/classes/blockmole/Color$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	blockmole/Color.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/target/scala-2.13/classes/blockmole/Color.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	blockmole/Worm.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/target/scala-2.13/classes/blockmole/Worm.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	blockmole/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/target/scala-2.13/classes/blockmole/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	blockmole/BlockWindow$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/target/scala-2.13/classes/blockmole/BlockWindow$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	blockmole/Worm$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/target/scala-2.13/classes/blockmole/Worm$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	blockmole/Mole$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/target/scala-2.13/classes/blockmole/Mole$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

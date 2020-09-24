@@ -1,0 +1,72 @@
+2020.09.21 19:23:01 INFO  started: Metals version 0.9.3 in workspace '/h/d8/u/ca1734ma-s/VSCode/Chess' for client vscode.
+2020.09.21 19:23:03 INFO  time: initialize in 1.39s
+2020.09.21 19:23:03 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/VSCode/Chess'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 19:23:03 INFO  no build target: using presentation compiler with only scala-library
+2020.09.21 19:23:06 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+Sep 21, 2020 7:23:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Sep 21, 2020 7:23:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Sep 21, 2020 7:23:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Sep 21, 2020 7:23:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Sep 21, 2020 7:23:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Sep 21, 2020 7:23:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Sep 21, 2020 7:23:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+something's wrong: no file:///h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala in Array[<error>]RangePosition(file:///h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala, 34, 34, 49)
+something's wrong: no file:///h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala in Array[<error>]RangePosition(file:///h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala, 34, 34, 46)
+something's wrong: no file:///h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala in Array[String]RangePosition(file:///h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala, 34, 34, 47)
+something's wrong: no file:///h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala in Array[String]RangePosition(file:///h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala, 34, 34, 47)
+Sep 21, 2020 7:27:52 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Sep 21, 2020 7:27:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: class scala.reflect.internal.Types$PolyType cannot be cast to class scala.reflect.internal.Types$OverloadedType (scala.reflect.internal.Types$PolyType and scala.reflect.internal.Types$OverloadedType are in unnamed module of loader 'app')
+java.lang.ClassCastException: class scala.reflect.internal.Types$PolyType cannot be cast to class scala.reflect.internal.Types$OverloadedType (scala.reflect.internal.Types$PolyType and scala.reflect.internal.Types$OverloadedType are in unnamed module of loader 'app')
+	at scala.reflect.internal.Symbols$Symbol.alternatives(Symbols.scala:1980)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall.alternatives(SignatureHelpProvider.scala:148)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$fromTree$2(SignatureHelpProvider.scala:276)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$fromTree$2$adapted(SignatureHelpProvider.scala:275)
+	at scala.Option$WithFilter.$anonfun$withFilter$1(Option.scala:332)
+	at scala.Option$WithFilter.$anonfun$withFilter$1$adapted(Option.scala:332)
+	at scala.Option.filter(Option.scala:289)
+	at scala.Option$WithFilter.map(Option.scala:329)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:275)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:27)
+
+2020.09.21 19:28:18 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+2020.09.21 19:37:44 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/VSCode/Chess'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 19:38:18 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+2020.09.21 19:45:54 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/VSCode/Chess'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 19:46:53 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/VSCode/Chess'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 19:47:57 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+2020.09.21 19:49:19 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+2020.09.21 19:49:26 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+2020.09.21 19:50:34 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+2020.09.21 19:50:58 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+2020.09.21 19:51:28 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+2020.09.21 19:51:28 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/VSCode/Chess'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 19:51:42 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+2020.09.21 19:51:42 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/VSCode/Chess'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 19:51:42 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/VSCode/Chess'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 19:51:43 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+2020.09.21 19:51:57 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+2020.09.21 19:51:57 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/VSCode/Chess'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 19:52:22 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+2020.09.21 19:57:18 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+2020.09.21 20:05:20 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/VSCode/Chess'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 20:05:20 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+2020.09.21 20:05:37 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+2020.09.21 20:05:56 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+2020.09.21 20:06:45 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+2020.09.21 20:07:25 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/VSCode/Chess'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 20:07:25 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/VSCode/Chess'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 20:07:25 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+2020.09.21 20:07:37 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+2020.09.21 20:08:39 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/VSCode/Chess'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 20:08:46 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+2020.09.21 20:09:12 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Chess/chess.scala
+2020.09.21 20:28:58 INFO  shutting down Metals

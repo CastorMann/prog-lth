@@ -1,0 +1,9 @@
+2020.09.21 19:22:10 INFO  started: Metals version 0.9.3 in workspace '/h/d8/u/ca1734ma-s/VSCode/Othello' for client vscode.
+2020.09.21 19:22:11 INFO  time: initialize in 1.5s
+2020.09.21 19:24:38 INFO  started: Metals version 0.9.3 in workspace '/h/d8/u/ca1734ma-s/VSCode/Othello' for client vscode.
+2020.09.21 19:24:40 INFO  time: initialize in 1.34s
+2020.09.21 19:24:40 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/VSCode/Othello'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 19:24:40 INFO  no build target: using presentation compiler with only scala-library
+2020.09.21 19:24:43 WARN  no build target for: /h/d8/u/ca1734ma-s/VSCode/Othello/othello.scala
+2020.09.21 19:50:09 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/VSCode/Othello'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.21 20:28:58 INFO  shutting down Metals
