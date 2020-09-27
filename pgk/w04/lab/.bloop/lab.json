@@ -2,27 +2,27 @@
     "version": "1.4.0",
     "project": {
         "name": "lab",
-        "directory": "/h/d8/u/ca1734ma-s/Prog/pgk/w04/lab",
-        "workspaceDir": "/h/d8/u/ca1734ma-s/Prog/pgk/w04/lab",
+        "directory": "C:\\Users\\casto\\Desktop\\Prog LTH\\prog-lth\\pgk\\w04\\lab",
+        "workspaceDir": "C:\\Users\\casto\\Desktop\\Prog LTH\\prog-lth\\pgk\\w04\\lab",
         "sources": [
-            "/h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/src/main/scala-2.13",
-            "/h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/src/main/scala",
-            "/h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/src/main/java",
-            "/h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/target/scala-2.13/src_managed/main",
-            "/h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/blockmole.scala"
+            "C:\\Users\\casto\\Desktop\\Prog LTH\\prog-lth\\pgk\\w04\\lab\\src\\main\\scala-2.13",
+            "C:\\Users\\casto\\Desktop\\Prog LTH\\prog-lth\\pgk\\w04\\lab\\src\\main\\scala",
+            "C:\\Users\\casto\\Desktop\\Prog LTH\\prog-lth\\pgk\\w04\\lab\\src\\main\\java",
+            "C:\\Users\\casto\\Desktop\\Prog LTH\\prog-lth\\pgk\\w04\\lab\\target\\scala-2.13\\src_managed\\main",
+            "C:\\Users\\casto\\Desktop\\Prog LTH\\prog-lth\\pgk\\w04\\lab\\blockmole.scala"
         ],
         "dependencies": [
             
         ],
         "classpath": [
-            "/h/d8/u/ca1734ma-s/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3.jar",
-            "/h/d8/u/ca1734ma-s/.cache/coursier/v1/https/repo1.maven.org/maven2/se/lth/cs/introprog_2.13/1.1.4/introprog_2.13-1.1.4.jar"
+            "C:\\Users\\casto\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.3\\scala-library-2.13.3.jar",
+            "C:\\Users\\casto\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\se\\lth\\cs\\introprog_2.13\\1.1.4\\introprog_2.13-1.1.4.jar"
         ],
-        "out": "/h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/.bloop/lab",
-        "classesDir": "/h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/.bloop/lab/scala-2.13/classes",
+        "out": "C:\\Users\\casto\\Desktop\\Prog LTH\\prog-lth\\pgk\\w04\\lab\\.bloop\\lab",
+        "classesDir": "C:\\Users\\casto\\Desktop\\Prog LTH\\prog-lth\\pgk\\w04\\lab\\.bloop\\lab\\scala-2.13\\classes",
         "resources": [
-            "/h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/src/main/resources",
-            "/h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/target/scala-2.13/resource_managed/main"
+            "C:\\Users\\casto\\Desktop\\Prog LTH\\prog-lth\\pgk\\w04\\lab\\src\\main\\resources",
+            "C:\\Users\\casto\\Desktop\\Prog LTH\\prog-lth\\pgk\\w04\\lab\\target\\scala-2.13\\resource_managed\\main"
         ],
         "scala": {
             "organization": "org.scala-lang",
@@ -32,13 +32,13 @@
                 
             ],
             "jars": [
-                "/h/d8/u/ca1734ma-s/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.3/scala-compiler-2.13.3.jar",
-                "/h/d8/u/ca1734ma-s/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3.jar",
-                "/h/d8/u/ca1734ma-s/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.3/scala-reflect-2.13.3.jar",
-                "/h/d8/u/ca1734ma-s/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline/3.15.0/jline-3.15.0.jar",
-                "/h/d8/u/ca1734ma-s/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar"
+                "C:\\Users\\casto\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-compiler\\2.13.3\\scala-compiler-2.13.3.jar",
+                "C:\\Users\\casto\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.3\\scala-library-2.13.3.jar",
+                "C:\\Users\\casto\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.3\\scala-reflect-2.13.3.jar",
+                "C:\\Users\\casto\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline\\3.15.0\\jline-3.15.0.jar",
+                "C:\\Users\\casto\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\net\\java\\dev\\jna\\jna\\5.3.1\\jna-5.3.1.jar"
             ],
-            "analysis": "/h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/target/streams/compile/bloopAnalysisOut/_global/streams/inc_compile_2.13.zip",
+            "analysis": "C:\\Users\\casto\\Desktop\\Prog LTH\\prog-lth\\pgk\\w04\\lab\\target\\streams\\compile\\bloopAnalysisOut\\_global\\streams\\inc_compile_2.13.zip",
             "setup": {
                 "order": "mixed",
                 "addLibraryToBootClasspath": true,
@@ -95,9 +95,9 @@
         "platform": {
             "name": "jvm",
             "config": {
-                "home": "/usr/lib/jvm/jdk-11.0.4",
+                "home": "C:\\Users\\casto\\.jabba\\jdk\\adopt@1.11.0-7",
                 "options": [
-                    "-Duser.dir=/h/d8/u/ca1734ma-s/Prog/pgk/w04/lab"
+                    "-Duser.dir=C:\\Users\\casto\\Desktop\\Prog LTH\\prog-lth\\pgk\\w04\\lab"
                 ]
             },
             "mainClass": [
@@ -114,12 +114,12 @@
                     "artifacts": [
                         {
                             "name": "scala-library",
-                            "path": "/h/d8/u/ca1734ma-s/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3.jar"
+                            "path": "C:\\Users\\casto\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.3\\scala-library-2.13.3.jar"
                         },
                         {
                             "name": "scala-library",
                             "classifier": "sources",
-                            "path": "/h/d8/u/ca1734ma-s/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3-sources.jar"
+                            "path": "C:\\Users\\casto\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.3\\scala-library-2.13.3-sources.jar"
                         }
                     ]
                 },
@@ -131,12 +131,12 @@
                     "artifacts": [
                         {
                             "name": "introprog_2.13",
-                            "path": "/h/d8/u/ca1734ma-s/.cache/coursier/v1/https/repo1.maven.org/maven2/se/lth/cs/introprog_2.13/1.1.4/introprog_2.13-1.1.4.jar"
+                            "path": "C:\\Users\\casto\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\se\\lth\\cs\\introprog_2.13\\1.1.4\\introprog_2.13-1.1.4.jar"
                         },
                         {
                             "name": "introprog_2.13",
                             "classifier": "sources",
-                            "path": "/h/d8/u/ca1734ma-s/.cache/coursier/v1/https/repo1.maven.org/maven2/se/lth/cs/introprog_2.13/1.1.4/introprog_2.13-1.1.4-sources.jar"
+                            "path": "C:\\Users\\casto\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\se\\lth\\cs\\introprog_2.13\\1.1.4\\introprog_2.13-1.1.4-sources.jar"
                         }
                     ]
                 },
@@ -148,12 +148,12 @@
                     "artifacts": [
                         {
                             "name": "scala-library",
-                            "path": "/h/d8/u/ca1734ma-s/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3.jar"
+                            "path": "C:\\Users\\casto\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.3\\scala-library-2.13.3.jar"
                         },
                         {
                             "name": "scala-library",
                             "classifier": "sources",
-                            "path": "/h/d8/u/ca1734ma-s/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3-sources.jar"
+                            "path": "C:\\Users\\casto\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.3\\scala-library-2.13.3-sources.jar"
                         }
                     ]
                 }

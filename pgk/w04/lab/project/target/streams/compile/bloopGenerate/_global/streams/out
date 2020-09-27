@@ -1,4 +1,4 @@
-[0m[[0m[0mdebug[0m] [0m[0m[lab-build] Classpath dependencies List()[0m
-[0m[[0m[0mdebug[0m] [0m[0m[lab-build] Dependencies from configurations List()[0m
-[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'lab-build' to '/h/d8/u/ca1734ma-s/Prog/pgk/w04/lab/project/.bloop/lab-build.json'[0m
-[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/lab-build.json[0m
+[debug] [lab-build] Classpath dependencies List()
+[debug] [lab-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'lab-build' to 'C:\Users\casto\Desktop\Prog LTH\prog-lth\pgk\w04\lab\project\.bloop\lab-build.json'
+[success] Generated .bloop\lab-build.json

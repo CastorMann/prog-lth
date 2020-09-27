@@ -110,7 +110,9 @@ object Mole {
     }
 }
 object Worm {
+    import scala.collection.mutable.ListBuffer
     var score = 0
+    var worm_tail = ListBuffer[(Int, Int)]()
     def dig(): Unit = {
         var x = BlockWindow.wx / 2
         var y = BlockWindow.wy / 2
