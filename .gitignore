@@ -1,3 +1,7 @@
 *.metals
 *.bloop
 *.vscode
+*.class
+*.log
+*.json
+*.db
